@@ -1,0 +1,36 @@
+Bài tập 1:
+- https://vi.wikipedia.org/wiki/Ping
+
+Pinging dyna.wikimedia.org [103.102.166.224] with 32 bytes of data:
+Reply from 103.102.166.224: bytes=32 time=55ms TTL=58
+Reply from 103.102.166.224: bytes=32 time=57ms TTL=58
+Reply from 103.102.166.224: bytes=32 time=56ms TTL=58
+Reply from 103.102.166.224: bytes=32 time=62ms TTL=58
+
+Ping statistics for 103.102.166.224:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 62ms, Average = 57ms
+
+- Các URL:
+https://en.wikipedia.org/wiki/Main_Page
+https://en.wikipedia.org/wiki/Genus
+https://en.wikipedia.org/wiki/Phorusrhacidae
+https://en.wikipedia.org/wiki/Extinction
+https://en.wikipedia.org/wiki/Patagonia
+https://en.wikipedia.org/wiki/Tehuelche_people
+
+- Thêm thông tin vào cổng ko bị lỗi (https :443, http :80)
+- Trang wikipedia có hỗ trợ giao thức HTTP
+- https://tiki.vn/search?q=b%C3%A1nh+trung+thu
+Chuỗi truy vấn : q=b%C3%A1nh+trung+thu
+
+Bài tập 2:
+file:///C:/Users/CICT/Desktop/index.html
+file:// localhost/C:/Users/CICT/Desktop/index.html
+-> Lý do bỏ đi localhost nên có 3 "///"
+file:///D:/mywebsite/index.html
+
+Bài tập 3:
+file:///D:/mywebsite/BaiTap3_hs.html
+

@@ -1,0 +1,19 @@
+body{
+    background: pink;
+}
+.att{
+    /* Mau chu */
+    color: blue;
+    text-align: center;
+} 
+#att2{
+    color: red;
+ }
+.image{
+     width: 45%;
+     height: 45%;
+     border-radius: 100%;
+     /* text-align: center; */
+     /* Cach phia ben trai man hinh 50% -> nua -> giua */
+     margin-left: 30%;
+}
